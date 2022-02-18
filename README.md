@@ -1,5 +1,5 @@
 # SE-Workshop1-Quality-Assessment-for-Local-Banking-Apps-
-Improving the code -Improving the programmers \n 
+Improving the code -Improving the programmers 
 * The main objective of this report is to provide results and analyses to assess the quality of 
 mobile banking applications running on the Android operating system, and specifically,
 our focus will be on the Al Rajhi Bank application. We are interested in this report on the 
